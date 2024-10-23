@@ -15,6 +15,7 @@
         <module name="Atividade_2_GestaoFuncionarios" />
         <module name="Bro_Code" />
         <module name="semana_05_Heranca" />
+        <module name="semana_07_restaurante" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
